@@ -15,8 +15,14 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]
+ 
+    *Status: **Work in Progress***
   - [osTicket: Post-Installation Configuration]
+    
+    *Status: **Work in Progress***
   - [osTicket: Ticket Lifecycle Examples]
+    
+      *Status: **Work in Progress***
 
  
 <h2>📜Certificates:</h2>
