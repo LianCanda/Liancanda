@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Lian, a Cybersecurity and IT Professional
 
-<!--
-**LianCanda/Liancanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Cloud Security</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)]
+
+
+<h2>🖥️ Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory and Creating Users with PowerShell Script]
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
+
+ 
+<h2>📜Certificates:</h2>
