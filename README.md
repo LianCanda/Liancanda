@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cloud Security</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)]
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/LianCanda/azure-honeynet_project)
   - [Building a Pwnagotchi + Using Hashcat]
 
 <h2>🖥️ Information Technology Projects:</h2>
