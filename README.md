@@ -5,6 +5,7 @@
 
 - <b>Cloud Security</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/LianCanda/azure-honeynet_project)
+- <b>Offensive Security</b>
   - [Building a Pwnagotchi + Using Hashcat]
 
 <h2>🖥️ Information Technology Projects:</h2>
