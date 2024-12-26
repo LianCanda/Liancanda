@@ -5,7 +5,7 @@
 
 - <b>Cloud Security</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)]
-
+  - [Building a Pwnagotchi + Using Hashcat]
 
 <h2>🖥️ Information Technology Projects:</h2>
 
@@ -19,3 +19,4 @@
 
  
 <h2>📜Certificates:</h2>
+- <a href="https://github.com/user-attachments/files/18248998/CompTIA.Security%2B.ce.certificate.pdf">Comptia Security+</a>
