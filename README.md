@@ -13,6 +13,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory and Creating Users with PowerShell Script]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+ 
+     *Status: **Work in Progress***
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]
  
@@ -26,4 +28,7 @@
 
  
 <h2>📜Certificates:</h2>
+
 - <a href="https://github.com/user-attachments/files/18248998/CompTIA.Security%2B.ce.certificate.pdf">Comptia Security+</a>
+
+- <a href="https://github.com/user-attachments/files/18257017/IS-100.c_certificate_0009023589.pdf">FEMA National Incident Management System (NIMS): ICS-100</a>
